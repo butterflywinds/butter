@@ -1,5 +1,5 @@
 {
-	"startbit.startbit_Init":"startbit板初始化，请在开机时执行",
+	"startbit.startbit_Init":"butter板初始化，请在开机时执行",
 	"startbit.startbit_setBusServo": "设置总线舵机运行，角度范围-120~120",
 	"startbit.startbit_setMotorSpeed":"设置马达1和马达2的速度，速度范围-100到100，可控制坦克车行进和转弯",
 	"startbit.onstartbit_custom_ir_pressed":"红外检测到指定的用户自定义的码值时触发",
