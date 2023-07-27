@@ -180,7 +180,7 @@ namespace startbit {
     /**
      * Startbit initialization, please execute at boot time
     */
-    //% weight=100 blockId=startbit_Init block="Initialize Startbit"
+    //% weight=100 blockId=startbit_Init block="Initialize butter"
     export function startbit_Init() {
         startbit_initRGBLight();
         serial.redirect(
